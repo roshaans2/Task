@@ -1,0 +1,19 @@
+.container {
+    padding: 20px;
+  }
+  
+  .cve-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .cve-table th,
+  .cve-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .cve-table th.highlight {
+    background-color: #f2f2f2;
+  }
+  
